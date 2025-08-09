@@ -75,8 +75,8 @@ importers:
         specifier: 1.5.0
         version: 1.5.0(next@14.1.1-canary.48)(react@18.2.0)
       '@vercel/speed-insights':
-        specifier: 1.0.9
-        version: 1.0.9(next@14.1.1-canary.48)(react@18.2.0)
+        specifier: 1.2.0
+        version: 1.2.0(next@14.1.1-canary.48)(react@18.2.0)
       class-variance-authority:
         specifier: 0.7.1
         version: 0.7.1
@@ -1731,14 +1731,14 @@ packages:
       react: 18.2.0
     dev: false
 
-  /@vercel/speed-insights@1.0.9(next@14.1.1-canary.48)(react@18.2.0):
-    resolution: {integrity: sha512-f+XFP0O+aZ4Olj9h+BitkB1b4NJQaxtyCb69wWuDxytJHY6Pa4QtZPdBUftHOcajUCHRVeq062fk3MKXKtjNVQ==}
+  /@vercel/speed-insights@1.2.0(next@14.1.1-canary.48)(react@18.2.0):
+    resolution: {integrity: sha512-y9GVzrUJ2xmgtQlzFP2KhVRoCglwfRQgjyfY607aU0hh0Un6d0OUyrJkjuAlsV18qR4zfoFPs/BiIj9YDS6Wzw==}
     requiresBuild: true
     peerDependencies:
       '@sveltejs/kit': ^1 || ^2
       next: '>= 13'
-      react: ^18 || ^19
-      svelte: ^4
+      react: ^18 || ^19 || ^19.0.0-rc
+      svelte: '>= 4'
       vue: ^3
       vue-router: ^4
     peerDependenciesMeta:
