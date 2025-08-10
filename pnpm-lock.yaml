@@ -117,8 +117,8 @@ importers:
         specifier: 7.62.0
         version: 7.62.0(react@18.2.0)
       react-icons:
-        specifier: 5.0.1
-        version: 5.0.1(react@18.2.0)
+        specifier: 5.5.0
+        version: 5.5.0(react@18.2.0)
       sonner:
         specifier: 1.4.0
         version: 1.4.0(react-dom@18.2.0)(react@18.2.0)
@@ -2722,8 +2722,8 @@ packages:
       react: 18.2.0
     dev: false
 
-  /react-icons@5.0.1(react@18.2.0):
-    resolution: {integrity: sha512-WqLZJ4bLzlhmsvme6iFdgO8gfZP17rfjYEJ2m9RsZjZ+cc4k1hTzknEz63YS1MeT50kVzoa1Nz36f4BEx+Wigw==}
+  /react-icons@5.5.0(react@18.2.0):
+    resolution: {integrity: sha512-MEFcXdkP3dLo8uumGI5xN3lDFNsRtrjbOEKDLD7yv76v4wpnEq2Lt2qeHaQOr34I/wPN3s3+N08WkQ+CW37Xiw==}
     peerDependencies:
       react: '*'
     dependencies:
