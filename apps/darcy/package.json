@@ -11,7 +11,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@hookform/resolvers": "3.3.4",
+    "@hookform/resolvers": "3.10.0",
     "@next/bundle-analyzer": "14.2.31",
     "@prisma/client": "5.22.0",
     "@radix-ui/react-avatar": "1.0.4",
