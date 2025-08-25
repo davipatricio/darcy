@@ -12,8 +12,8 @@ importers:
         specifier: 1.9.4
         version: 1.9.4
       '@types/node':
-        specifier: 20.19.10
-        version: 20.19.10
+        specifier: 22.18.0
+        version: 22.18.0
       husky:
         specifier: 9.1.7
         version: 9.1.7
@@ -145,8 +145,8 @@ importers:
         specifier: 9.0.10
         version: 9.0.10
       '@types/node':
-        specifier: 20.19.10
-        version: 20.19.10
+        specifier: 22.18.0
+        version: 22.18.0
       '@types/react':
         specifier: 18.2.55
         version: 18.2.55
@@ -1659,15 +1659,15 @@ packages:
     resolution: {integrity: sha512-asx5hIG9Qmf/1oStypjanR7iKTv0gXQ1Ov/jfrX6kS/EO0OFni8orbmGCn0672NHR3kXHwpAwR+B368ZGN/2rA==}
     dependencies:
       '@types/ms': 2.1.0
-      '@types/node': 20.19.10
+      '@types/node': 22.18.0
     dev: true
 
   /@types/ms@2.1.0:
     resolution: {integrity: sha512-GsCCIZDE/p3i96vtEqx+7dBUGXrc7zeSK3wwPHIaRThS+9OhWIXRqzs4d6k1SVU8g91DrNRWxWUGhp5KXQb2VA==}
     dev: true
 
-  /@types/node@20.19.10:
-    resolution: {integrity: sha512-iAFpG6DokED3roLSP0K+ybeDdIX6Bc0Vd3mLW5uDqThPWtNos3E+EqOM11mPQHKzfWHqEBuLjIlsBQQ8CsISmQ==}
+  /@types/node@22.18.0:
+    resolution: {integrity: sha512-m5ObIqwsUp6BZzyiy4RdZpzWGub9bqLJMvZDD0QMXhxjqMHMENlj+SqF5QxoUwaQNFe+8kz8XM8ZQhqkQPTgMQ==}
     dependencies:
       undici-types: 6.21.0
     dev: true
